@@ -1,3 +1,0 @@
-[submodule "child_module"]
-	path = child_module
-	url = git@github.com:keyou1/submodule_test1.git
